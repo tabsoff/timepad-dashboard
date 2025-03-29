@@ -1,0 +1,7 @@
+flask
+celery
+redis
+dash
+plotly
+flask_sqlalchemy
+psycopg2-binary
